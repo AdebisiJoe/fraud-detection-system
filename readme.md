@@ -1,5 +1,5 @@
 
-```markdown
+
 # Fraud Detection System
 
 ## Overview
@@ -182,5 +182,5 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
